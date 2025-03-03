@@ -1,7 +1,5 @@
 # 👋 Hello, World! I'm Hlavutelo Maluleke 🚀
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
-
 ## 💻 About Me
 I'm a passionate **Software Developer & Data Engineer** 💡 with a strong background in:
 - 📊 **Data Engineering & Cloud Computing**
